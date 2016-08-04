@@ -1,0 +1,32 @@
+_repo: Enoch-Arden--amp-c._1358
+_version: 0.0.1
+alternative_title: Enoch Arden, etc.
+creator:
+  author:
+    agent_name: Tennyson, Alfred Tennyson, Baron
+    alias: Tennyson, Alfred Lord
+    birthdate: 1809
+    deathdate: 1892
+    gutenberg_agent_id: '2987'
+    url: http://www.gutenberg.org/2009/agents/2987
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Tennyson%2C_1st_Baron_Tennyson
+description: ''
+gutenberg_issued: '1998-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1358'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 19th century'
+- GITenberg
+tableOfContents: Enoch Arden -- Aylmer's field -- Sea dreams -- The grandmother --
+  Northern farmer -- Tithonus -- The voyage -- In the valley of Cauteretz -- The flower
+  -- Requiescat -- The sailor-boy -- The islet -- The ringlet -- A welcome to Alexandra
+  -- Ode sung at the opening of the international exhibition -- A dedication -- Boadicea
+  -- In quantity -- Specimen of a translation of the Iliad in blank verse.
+title: Enoch Arden, &c.
+url: http://www.gutenberg.org/ebooks/1358
